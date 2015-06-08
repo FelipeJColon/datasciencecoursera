@@ -1,2 +1,2 @@
 # Repo - datasciencecoursera
- Repository created for coursework
+ Repository created for course project
